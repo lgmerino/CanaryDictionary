@@ -1,1 +1,1 @@
-[![Build Status](your travis url for the repo here.png)]https://github.com/lgmerino/CanaryDictionary
+[![Build Status](https://travis-ci.org/lgmerino/CanaryDictionary/UtilityBehaviors.png)](https://github.com/lgmerino/CanaryDictionary)
