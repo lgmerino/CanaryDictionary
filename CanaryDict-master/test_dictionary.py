@@ -12,6 +12,8 @@ def test_dictionary():
     assert baifo == 'cabra'
     godo = dictionary.search_word('godo')
     assert godo == 'miguel'
+    guagua = dictionary.search_word('guagua')
+    assert guagua == 'autobus'
 
 
 def test_nodictionary():

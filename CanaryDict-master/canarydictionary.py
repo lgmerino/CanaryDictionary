@@ -5,7 +5,8 @@ class CanaryDictionary(object):
         self.dictionary = {'millo': 'maiz',
                            'papa': 'patata',
                            'baifo': 'cabra',
-                           'godo': 'miguel'}
+                           'godo': 'miguel',
+                           'guagua': 'autobus'}
 
     def search_word(self, word):
         return self.dictionary.get(word, None)
